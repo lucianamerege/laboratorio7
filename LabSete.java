@@ -1,9 +1,3 @@
-/* Disciplina: Computacao Concorrente */
-/* Prof.: Silvana Rossetto */
-/* Laboratório: 6 */
-/* Codigo: "Hello World" usando threads em Java */
-
-
 //classe da estrutura de dados (recurso) compartilhado entre as threads
 class S {
    private int soma;
